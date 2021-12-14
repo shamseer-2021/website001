@@ -1,2 +1,6 @@
 hello
 this is second file
+
+
+
+all file in nginx home directory is deleted
